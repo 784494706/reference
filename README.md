@@ -1,22 +1,10 @@
-Website: https://jaywcjlove.github.io/reference
-## Docker
+# Quick Reference
 
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-048754?logo=buymeacoffee)](https://jaywcjlove.github.io/#/sponsor) [![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference) [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference) [![Docker Pulls](https://img.shields.io/docker/pulls/wcjiang/reference)](https://hub.docker.com/r/wcjiang/reference)
+This is a mirror Website: https://784494706.github.io/reference/
 
-轻松通过 `docker` 部署 `Quick Reference` 网站。
+By: [jaywcjlove 小弟调调](https://github.com/jaywcjlove/reference) and other contributors 🫡<bar>
 
-```bash
-docker pull wcjiang/reference
-```
 
-```bash
-docker run --name reference --rm -d -p 9667:3000 wcjiang/reference:latest
-# Or
-docker run --name reference -itd -p 9667:3000 wcjiang/reference:latest
-```
+The original intention of this mirror site is to enable myself to quickly look up various technology stacks.  
 
-在浏览器中访问以下 URL
-
-```bash
-http://localhost:9667/
-```
+I appreciate the contributions made by everyone involved.
