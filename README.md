@@ -1,6 +1,6 @@
 # Quick Reference
 
-This is a mirror Website: https://784494706.github.io/reference/
+This is a mirror Website: https://boshenren.github.io/reference/
 
 By: [jaywcjlove 小弟调调](https://github.com/jaywcjlove/reference) and other contributors 🫡<bar>
 
